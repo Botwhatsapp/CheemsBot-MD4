@@ -58,7 +58,7 @@ global.vcardowner = ['01063398639'] //ur owner number
 global.ownername = "OMAR ٫" //ur owner name
 global.ytname = "YT: ." //ur yt chanel name
 global.socialm = "GitHub: KURAMA" //ur github or insta name
-global.location = "Egypt, Cairo, Aizawl" //ur location
+global.location = "Egypt, ALEXANDRIA , Aizawl" //ur location
 
 //bot bomdy 
 global.owner = ['01063398639']
@@ -68,7 +68,7 @@ global.linkz = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //your theme 
 global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script link
 global.reactmoji = "🔥" //ur menu react emoji
-global.themeemoji = "🌀" //ur theme emoji
+global.themeemoji = "🌀🔥" //ur theme emoji
 global.packname = "⍣OMAR⍣" //ur sticker watermark packname
 global.author = "⍣KURAMA⍣" //ur sticker watermark author
 
