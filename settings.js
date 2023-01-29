@@ -69,7 +69,7 @@ global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur websi
 global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script link
 global.reactmoji = "🔥" //ur menu react emoji
 global.themeemoji = "🌀🔥" //ur theme emoji
-global.packname = "⍣OMAR⍣" //ur sticker watermark packname
+global.packname = "⍣KURAMA⍣" //ur sticker watermark packname
 global.author = "⍣KURAMA⍣" //ur sticker watermark author
 
 //Bot theme media
